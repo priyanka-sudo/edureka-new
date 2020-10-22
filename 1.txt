@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 1.txt is modified by master branch
 
 1.txt is modified by f1 branch
 
+=======
+>>>>>>> parent of c07d591... 1.txt is modified by f1  branch
